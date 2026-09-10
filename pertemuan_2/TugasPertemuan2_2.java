@@ -27,5 +27,7 @@ public class TugasPertemuan2_2 {
         System.out.println("Luas Kolam Ikan   : " + luasKolam + " m2");
         System.out.println("Luas Taman Bunga  : " + luasTaman + " m2");
         System.out.println("Luas Sisa Tanah   : " + luasSisa + " m2");
+
+        input.close();
     }
 }
