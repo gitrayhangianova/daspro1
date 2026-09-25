@@ -18,16 +18,16 @@ public class AssignmentQueue24 {
                 System.out.println("Surat Keterangan Aktif Kuliah, Loket B");
                 break;
             case 3:
-                System.out.println("Legalisir Ijazah, Loket A");
+                System.out.println("Pembayaran UKT, Loket C");
                 break;
             case 4:
-                System.out.println("Legalisir Ijazah, Loket A");
+                System.out.println("Pengajuan Cuti Akademik, Loket D");
                 break;
-        
+
             default:
                 break;
         }
         sc.close();
     }
-    
+
 }

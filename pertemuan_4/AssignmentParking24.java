@@ -12,9 +12,9 @@ public class AssignmentParking24 {
         int lamaParkir = sc.nextInt();
 
         if (lamaParkir <= 2) {
-            System.out.println("Biaya parkir selama " + lamaParkir + " sebesar Rp. " + tarifDasar);
+            System.out.println("Biaya parkir selama " + lamaParkir + " Jam sebesar Rp. " + tarifDasar);
         } else {
-            System.out.println("Biaya parkir selama " + lamaParkir + " sebesar Rp. "
+            System.out.println("Biaya parkir selama " + lamaParkir + " Jam sebesar Rp. "
                     + (tarifDasar + (tarifTambahan * lamaParkir)));
         }
         sc.close();
