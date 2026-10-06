@@ -339,3 +339,9 @@ public class tugas2SeleksiAsisten24 {
 ```
 
 Program ini menyeleksi calon asisten praktikum melalui tiga tahapan bertahap menggunakan nested-IF dan operator logika. Tahap pertama memeriksa status aktif dan sanksi. Tahap kedua menguji nilai Daspro minimal 80 atau kepemilikan sertifikat. Tahap terakhir mengevaluasi nilai wawancara minimal 75 serta menampilkan alasan spesifik jika gagal.
+
+---
+
+### 4: Kesimpulan
+
+Pada Jobsheet 6 ini, dapat disimpulkan bahwa penggunaan struktur pemilihan bersarang (Nested IF) dan kombinasi operator logika (&&, ||, !) sangat efektif untuk menyelesaikan permasalahan kompleks yang membutuhkan evaluasi kondisi secara bertahap. Struktur Nested IF memberikan fleksibilitas bagi programer untuk menangani kasus yang membutuhkan klarifikasi atau pesan penolakan secara spesifik di tiap tingkatan evaluasi, sedangkan operator logika membantu menyederhanakan gabungan beberapa syarat dalam satu tingkatan ekspresi.
