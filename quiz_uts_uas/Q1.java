@@ -1,3 +1,4 @@
+package quiz_uts_uas;
 //NAMA: RAYHAN GIANOVA ARIANTO
 //NIM : 264107020213
 //KELAS : TI-1D
