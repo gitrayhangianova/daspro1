@@ -1,8 +1,8 @@
-package pertemuan_6;
+package jobsheet6.studikasus1;
 
 import java.util.Scanner;
 
-public class StudiKasus1absen24 {
+public class StudiKasus124 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

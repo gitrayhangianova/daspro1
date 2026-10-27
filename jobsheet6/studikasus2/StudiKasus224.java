@@ -1,8 +1,8 @@
-package pertemuan_6;
+package jobsheet6.studikasus2;
 
 import java.util.Scanner;
 
-public class StudiKasusAbsen24 {
+public class StudiKasus224 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -29,8 +29,6 @@ public class StudiKasusAbsen24 {
             System.out.print("Status pendanaan PKM (1 = lolos, 0 = tidak lolos): ");
             statusPendanaanPKM = input.nextInt();
         }
-
-        System.out.println("--------------------------------------------------");
 
         // Logika pemilihan bersarang (Nested IF)
         if (jenisKegiatan.equalsIgnoreCase("BELMAWA") ||
